@@ -9,3 +9,10 @@
  ### Verringerung der Seitenlast
  ### Kompression
 
+ ## Partitionierung
+ ### part Sicht
+ ### Partitionierung (Schema F())
+ ### Archivierung
+
+ ## Monitor Tools
+ ### Perfmon Profiler
