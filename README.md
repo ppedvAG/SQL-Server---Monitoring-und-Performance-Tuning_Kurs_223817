@@ -5,4 +5,7 @@
  ### VM Settings NUMA RAM HDD
  ### Setup Maxdop Ram Tempdb 
 
+ ## DBDesign
+ ### Verringerung der Seitenlast
+ ### Kompression
 
