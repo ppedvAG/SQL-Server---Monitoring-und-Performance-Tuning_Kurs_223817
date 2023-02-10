@@ -138,7 +138,7 @@ group by	country
 ;)
 
 -- Problem..:
---Heap .. neueste DAten und geänderte Daten kommen in Heap
+--Heap .. neueste Daten und geänderte Daten kommen in Heap
 -- Heap wird erst ab ca 1 MIO Datensätze in CStore übergeführt
 --Del.. es wird nichts gelöscht bis Rebuild oder 1 MIO zu Stande kommen
 

@@ -151,12 +151,19 @@ select * from ptab where id = 203
 --Trick
 
 --wie stell ich fest , wie die Part gerade läuft..:
-
+--------2019]--------------2020]
 --Bestlldatum (datetime)
 create partition function fZahl(datetime)--ms
 as
 RANGE LEFT FOR VALUES('31.12.2020 00:00:00.000',--falsch
 					'31.12.2020 23.59:59.997', --richtig
+
+
+create partition function fZahl(varchar(50))
+
+--A bis G       H bis R      S bis Z
+
+range left for values('H','')
 					'','','','')
 
 					--A-M  N-R  S-Z

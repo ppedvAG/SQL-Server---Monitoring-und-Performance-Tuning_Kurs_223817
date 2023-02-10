@@ -16,3 +16,9 @@
 
  ## Monitor Tools
  ### Perfmon Profiler
+
+ ## Indizes
+ ### Variantenund Architektur
+### Anwendungsbsp
+### Wartung
+### Probleme / forwardrecordcounts
