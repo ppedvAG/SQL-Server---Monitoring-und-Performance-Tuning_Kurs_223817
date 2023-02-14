@@ -1,4 +1,6 @@
 
+andreasr@ppedv.de
+
 Prozessor: Prozessorzeit
 Diese sollte natürlich nicht auf Dauer allzu hoch sein. Messunen über 50% bis 60%, sollten abgeklärt werden (Auslagerungen, Kompilierungen etc)
 PhysicalDisk: AverageDiskQueueLength
